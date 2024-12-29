@@ -1,0 +1,18 @@
+Python
+
+# Data structures
+
+## Linked List
+* python list is a dynamic array
+* insertion in list / dyn array is O(n) (the swaps)
+* Arrays insertion
+    * if an element is inserted at pos 1 the proceedings elements are swapped a position 
+    * And if the list goes out of bounds the entire list is copied to a new memory location
+    * Note: list /dynamic array of size n pre-allocates 2n space in the memory
+* insertion in the linked list is O(1) as here we do not need to swap elements
+* Advantages of linked list over arrays
+    * There is no need to pre-allocate space 
+    * insertion is easier: just change the head and the next node pointer address
+    * Traversal through a linked list : O(n)
+    * Finding an element : O(n)
+￼
