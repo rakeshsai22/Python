@@ -15,4 +15,13 @@ Python
     * insertion is easier: just change the head and the next node pointer address
     * Traversal through a linked list : O(n)
     * Finding an element : O(n)
+
+## Hashmap
+* similar to an array with a string index instead of an integer index
+* Hash function convertd the string key into an array index 
+*Dictionary is a python specific implementation of Hashmap
+* Look up by key is O(1) on average
+* Insertion/Deletion is O(1) on avg
+* Hash function
+    * 
 ￼
