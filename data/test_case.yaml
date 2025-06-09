@@ -1,0 +1,6 @@
+- test: test_add
+  inputs: [2, 3]
+  expected: 5
+- test: test_sub
+  inputs: [5, 2]
+  expected: 3

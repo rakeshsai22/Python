@@ -1,0 +1,5 @@
+[2024-05-01 13:15:02] INFO System initialized
+[2024-05-01 13:15:05] WARNING Temperature threshold approaching
+[2024-05-01 13:15:06] ERROR Overcurrent detected
+[2024-05-01 13:15:08] INFO Heartbeat
+[2024-05-01 13:15:09] ERROR Sensor timeout
