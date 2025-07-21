@@ -3,3 +3,17 @@
 [2024-05-01 13:15:06] ERROR Overcurrent detected
 [2024-05-01 13:15:08] INFO Heartbeat
 [2024-05-01 13:15:09] ERROR Sensor timeout
+[2024-06-15 10:01:23] ERROR GPU timeout occurred
+[2024-06-15 10:02:00] ERROR Shader compilation failed
+[2024-06-15 10:02:01] WARNING Low memory
+[2024-06-15 10:01:23] Error GPU timeout occurred
+[2024-06-15 10:02:03] Error Shader compilation failed
+[2024-06-15 10:01:23] ERROR Overvoltage detected
+[2024-06-15 10:01:24] ERROR Overcurrent detected
+[2024-06-15 10:02:00] INFO BUILD stage
+[2024-06-15 10:02:01] WARNING Low memory
+[2024-06-15 10:02:03] Error Undervoltage detected
+[2024-06-15 10:01:23] Error Overvoltage detected
+[2024-06-15 10:01:24] Error Overcurrent detected
+[2024-06-15 10:02:00] INFO BUILD stage
+[2024-06-15 10:02:03] ERROR Undervoltage detected

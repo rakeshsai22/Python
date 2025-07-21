@@ -1,0 +1,5 @@
+[2024-06-15 10:01:23] ERROR GPU timeout occurred
+[2024-06-15 10:01:24] ERROR GPU timeout occurred
+[2024-06-15 10:02:00] ERROR Shader compilation failed
+[2024-06-15 10:02:01] WARNING Low memory
+[2024-06-15 10:02:03] Error Shader compilation failed
